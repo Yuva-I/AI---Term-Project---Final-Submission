@@ -1,5 +1,8 @@
 # DSCI 6612 - AI - Term-Project - Final-Submission
 
+## Contributors
+Yuva Krishna Kishore Inapala, Rahul Gaddam
+
 ## Introduction
 In this project we have applied reinforcement learning and trained a smart agent which is going to take action based on enemies actions and takes a counter action.
 

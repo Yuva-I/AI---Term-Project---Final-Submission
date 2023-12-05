@@ -4,11 +4,10 @@
 In this project we have applied reinforcement learning and trained a smart agent which is going to take action based on enemies actions and takes a counter action.
 
 ## Requirements
-Python 3.6 to 3.8
-OS - Ubuntu
-Optuna
+Python 3.6 to 3.8,
+OS - Ubuntu,
+Optuna,
 Jupyter Notebook
-
 
 ## Install dependencies:
 pip install -r requirements.txt
